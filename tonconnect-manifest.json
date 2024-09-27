@@ -1,7 +1,7 @@
 {
-    "url": "<appurl>",                        
-    "name": "<MGS>",                      
-    "iconUrl": "<https://maxscripts.github.io/Connctwallet/Index.PNG>",               
-    "termsOfUseUrl": "<https://maxscripts.github.io/Connctwallet/Terms.html>",     
-    "privacyPolicyUrl": "<https://maxscripts.github.io/Connctwallet/privacy.html>" 
+    "url": "appurl",                        
+    "name": "MGS",                      
+    "iconUrl": "https://maxscripts.github.io/Connctwallet/Index.PNG",               
+    "termsOfUseUrl": "https://maxscripts.github.io/Connctwallet/Terms.html",     
+    "privacyPolicyUrl": "https://maxscripts.github.io/Connctwallet/privacy.html" 
 }
